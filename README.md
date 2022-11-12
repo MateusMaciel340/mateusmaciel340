@@ -1,6 +1,13 @@
-## Olá, sou Mateus Maciel! 
-<p>Fico feliz que você decidiu dar uma passadinha aqui no meu perifl ✨</p>
-<p>Estudo desenvolvimento de software, com foco em Backend, mas tenha a mesma força de vontade para aprender frontend. Tenho formação técnica em informática, e pretendo realizar uma formação de nível superior para continuar dentro da área de tecnologia :)</p>
+## Mateus Maciel! 
+<p>Conhecimentos:</p>
+
+- HTML - CSS
+- JavaScript - TypeScript
+- Nodejs - Express - Nest
+- MySQL - Postgresql - SqlServer
+- Docker
+- C# 
+- .Net - Aspnet
 
 🌟 #OpenToWork
 <br>
